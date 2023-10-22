@@ -1,0 +1,2 @@
+class cool
+  class mains
